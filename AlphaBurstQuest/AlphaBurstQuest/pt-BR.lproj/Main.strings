@@ -1,0 +1,30 @@
+
+/* Class = "UIButton"; normalTitle = "3"; ObjectID = "12i-xH-aT3"; */
+"12i-xH-aT3.normalTitle" = "3";
+
+/* Class = "UIButton"; normalTitle = "Start AlphaBurst Quest Game"; ObjectID = "8Tp-6z-F1K"; */
+"8Tp-6z-F1K.normalTitle" = "Start AlphaBurst Quest Game";
+
+/* Class = "UILabel"; text = "How to Play?"; ObjectID = "GBQ-CV-GPf"; */
+"GBQ-CV-GPf.text" = "How to Play?";
+
+/* Class = "UIButton"; normalTitle = "1"; ObjectID = "N47-CL-69w"; */
+"N47-CL-69w.normalTitle" = "1";
+
+/* Class = "UIButton"; normalTitle = "How to Play AlphaBurst Quest?"; ObjectID = "QN6-9O-cc6"; */
+"QN6-9O-cc6.normalTitle" = "How to Play AlphaBurst Quest?";
+
+/* Class = "UIButton"; normalTitle = "2"; ObjectID = "Ymp-54-PMm"; */
+"Ymp-54-PMm.normalTitle" = "2";
+
+/* Class = "UIButton"; normalTitle = "Rate Us"; ObjectID = "fbL-4Q-9F1"; */
+"fbL-4Q-9F1.normalTitle" = "Rate Us";
+
+/* Class = "UIButton"; normalTitle = "Share AlphaBurst Quest"; ObjectID = "h4o-co-Duo"; */
+"h4o-co-Duo.normalTitle" = "Share AlphaBurst Quest";
+
+/* Class = "UIButton"; normalTitle = "Let's Start AlphaBurst Quest"; ObjectID = "j5l-kT-mKJ"; */
+"j5l-kT-mKJ.normalTitle" = "Let's Start AlphaBurst Quest";
+
+/* Class = "UITextView"; text = "Objective: Pop the balloons in the correct alphabetical order, starting from A to Z.\n\nGame Start:\n\nWhen the game begins, the screen will display balloons placed randomly across the screen, each labeled with a letter from A to Z.\nBalloons can be moved around by dragging them.\nGameplay:\n\nIdentify the balloon with the letter A and tap on it to \"pop\" it.\nThe balloon disappears, and now you need to find the next letter in the sequence (B, then C, and so on).\nContinue popping the balloons in order until you reach the letter Z.\nWinning the Game:\n\nSuccessfully pop all balloons in the correct order to win!\nOnce you pop the last balloon (Z), a congratulatory message appears, declaring you the winner.\nMistakes:\n\nIf you tap the wrong balloon,then you get the alert and find the right ballon."; ObjectID = "xXO-Og-bte"; */
+"xXO-Og-bte.text" = "Objective: Pop the balloons in the correct alphabetical order, starting from A to Z.\n\nGame Start:\n\nWhen the game begins, the screen will display balloons placed randomly across the screen, each labeled with a letter from A to Z.\nBalloons can be moved around by dragging them.\nGameplay:\n\nIdentify the balloon with the letter A and tap on it to \"pop\" it.\nThe balloon disappears, and now you need to find the next letter in the sequence (B, then C, and so on).\nContinue popping the balloons in order until you reach the letter Z.\nWinning the Game:\n\nSuccessfully pop all balloons in the correct order to win!\nOnce you pop the last balloon (Z), a congratulatory message appears, declaring you the winner.\nMistakes:\n\nIf you tap the wrong balloon,then you get the alert and find the right ballon.";

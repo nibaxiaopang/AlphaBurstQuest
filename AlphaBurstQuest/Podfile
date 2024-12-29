@@ -6,5 +6,6 @@ target 'AlphaBurstQuest' do
   use_frameworks!
 
   # Pods for AlphaBurstQuest
-
+  pod 'Firebase/Messaging'
+  pod 'AppsFlyerFramework'
 end

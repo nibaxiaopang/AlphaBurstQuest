@@ -76,6 +76,9 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="pdb-FJ-Wyx"/>
+                    <connections>
+                        <outlet property="letsPlayBtn" destination="j5l-kT-mKJ" id="hOM-Dl-SNV"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="aCx-dP-4vA" sceneMemberID="firstResponder"/>
             </objects>
@@ -571,6 +574,9 @@ If you tap the wrong balloon,then you get the alert and find the right ballon.</
                                 </constraints>
                                 <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
                                 <state key="normal" image="back_img"/>
+                                <connections>
+                                    <action selector="backAction:" destination="nyn-Ve-teb" eventType="touchUpInside" id="5sb-6K-Mz2"/>
+                                </connections>
                             </button>
                             <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="white" translatesAutoresizingMaskIntoConstraints="NO" id="RJM-xz-1GK">
                                 <rect key="frame" x="150" y="274" width="20" height="20"/>
@@ -590,6 +596,13 @@ If you tap the wrong balloon,then you get the alert and find the right ballon.</
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" id="mys-VU-9Ye"/>
+                    <connections>
+                        <outlet property="alphaBurstWebView" destination="Y8V-rJ-S9A" id="QjV-ww-rtF"/>
+                        <outlet property="backButton" destination="zRv-Dk-u2c" id="xxY-ym-gAB"/>
+                        <outlet property="bottomCos" destination="FgR-fP-Eis" id="sas-9v-HPD"/>
+                        <outlet property="indicatorView" destination="RJM-xz-1GK" id="3hG-xS-DgI"/>
+                        <outlet property="topCos" destination="UDB-0K-cwe" id="R8d-vj-fyh"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="u0L-du-dPn" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>

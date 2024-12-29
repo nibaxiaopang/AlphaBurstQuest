@@ -2,7 +2,7 @@
 //  LockVC.swift
 //  AlphaBurstQuest
 //
-//  Created by jin fu on 2024/12/29.
+//  Created by AlphaBurst Quest on 2024/12/29.
 //
 
 
