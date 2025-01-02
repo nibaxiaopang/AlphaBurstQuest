@@ -34,7 +34,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
         
         AppsFlyerLib.shared().start()
         
-        DispatchQueue.global().asyncAfter(deadline: .now() + 0.45) {
+        DispatchQueue.global().asyncAfter(deadline: .now() + 0.6) {
             if #available(iOS 14, *) {
                 ATTrackingManager.requestTrackingAuthorization { status in
                 }
